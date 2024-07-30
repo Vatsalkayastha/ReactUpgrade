@@ -1,5 +1,5 @@
 import "./App.css";
-import Starter from "./Hooks/UseState/Object";
+import Starter from "./Hooks/UseReducer/Basics";
 
 function App() {
   return (
